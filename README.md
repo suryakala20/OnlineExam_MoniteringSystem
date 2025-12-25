@@ -56,3 +56,12 @@ The project uses MySQL with the following tables:
 - questions
 - exam_attempts
 - activity_logs
+
+---
+
+## Project Demo
+Below is a short demonstration video showcasing the working of the Online Exam Proctoring System.
+
+https://github.com/user-attachments/assets/069c509b-806c-4632-aee5-373fac20b14a
+
+
